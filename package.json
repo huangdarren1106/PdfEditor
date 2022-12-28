@@ -5,5 +5,8 @@
     "workspaces": [
         "./web/*",
         "./web/modules/*"
-    ]
+    ],
+    "dependencies": {
+        "@fstr/components": "^1.0.0"
+    }
 }
